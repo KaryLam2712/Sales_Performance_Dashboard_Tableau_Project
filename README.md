@@ -2,6 +2,7 @@
 
 ## Overview
 This Tableau project includes two interactive dashboards designed to support stakeholders—including sales managers and executives—in analyzing sales performance and customer behaviors. The **Sales Dashboard** and **Customer Dashboard** offer insights into key performance metrics, trends, and customer engagement, empowering the team to make data-driven decisions to drive growth and enhance customer satisfaction.
+- **Project Link**: [Tableau Public Link](https://public.tableau.com/app/profile/kary.lam/viz/SalesPerformanceDashboard_17316226432690/CustomerDashboard)
 
 ## Preview
 ![Sales & Customer Dashboard Preview](Dashboard_Preview/Sales_Performance_Dashboard_Tableau_Project.gif)
