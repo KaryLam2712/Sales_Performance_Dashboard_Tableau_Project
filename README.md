@@ -28,7 +28,8 @@ The **Sales Dashboard** provides a comprehensive view of sales metrics and trend
 - **Weekly Sales & Profit Trends**:
   - Shows weekly sales and profit data, including average weekly values.
   - Highlights weeks above and below the average, emphasizing performance outliers.
-
+  - 
+![Sales Dashboard Preview](Dashboard_Preview/Sales_Dashboard.png)
 ---
 
 ### Dashboard 2: Customer Dashboard
@@ -46,6 +47,7 @@ The **Customer Dashboard** offers an overview of customer data, including behavi
 - **Top 10 Customers by Profit**:
   - Displays the top 10 most profitable customers, with details such as rank, order count, current sales and profit, and the last order date.
 
+![Customers Dashboard Preview](Dashboard_Preview/Customer_Dashboard.png)
 ---
 
 ### Design & Interactivity
