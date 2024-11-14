@@ -3,6 +3,9 @@
 ## Overview
 This Tableau project includes two interactive dashboards designed to support stakeholders—including sales managers and executives—in analyzing sales performance and customer behaviors. The **Sales Dashboard** and **Customer Dashboard** offer insights into key performance metrics, trends, and customer engagement, empowering the team to make data-driven decisions to drive growth and enhance customer satisfaction.
 
+## Preview
+![Sales & Customer Dashboard Preview](Sales_Performance_Dashboard_Tableau_Project.gif)
+
 ## Project Objectives
 The primary objectives of this project are:
 - To provide an overview of sales metrics, enabling year-over-year performance comparison.
